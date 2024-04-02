@@ -1,0 +1,80 @@
+[
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 0,
+        "end_column": 0,
+        "value": ""
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 1,
+        "end_column": 1,
+        "value": "企业法人单位（万个）"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 2,
+        "end_column": 2,
+        "value": "从业人员（万人）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 1,
+        "end_index": 1,
+        "value": "合　计"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 2,
+        "end_index": 2,
+        "value": "租赁业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 3,
+        "end_index": 3,
+        "value": "商务服务业"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 1,
+        "value": "250.6"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 2,
+        "value": "2236.8"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 1,
+        "value": "22.4"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 2,
+        "value": "140.3"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 1,
+        "value": "228.2"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 2,
+        "value": "2096.5"
+    }
+]

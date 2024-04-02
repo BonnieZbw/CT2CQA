@@ -255,7 +255,7 @@ def load_data():
             questions = []
             ans = []
             urls = []
-            qa_path = f"../data_base/{i}/qa"
+            qa_path = f"../small_dataset/{i}/qa"
             for item in os.listdir(qa_path):
                 full_path = os.path.join(qa_path, item)
                 with open(full_path, 'r')as f: 

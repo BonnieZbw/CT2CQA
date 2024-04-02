@@ -1,0 +1,130 @@
+[
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 0,
+        "end_column": 0,
+        "value": ""
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 1,
+        "end_column": 1,
+        "value": "资产总计 （亿元）"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 2,
+        "end_column": 2,
+        "value": "负债合计 （亿元）"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 3,
+        "end_column": 3,
+        "value": "营业收入 （亿元）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 1,
+        "end_index": 1,
+        "value": "合　计"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 2,
+        "end_index": 2,
+        "value": "电信、广播电视和卫星传输服务"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 3,
+        "end_index": 3,
+        "value": "互联网和相关服务"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 4,
+        "end_index": 4,
+        "value": "软件和信息技术服务业"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 1,
+        "value": "152025.5"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 2,
+        "value": "71863.5"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 3,
+        "value": "70078.1"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 1,
+        "value": "58732.7"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 2,
+        "value": "21837.0"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 3,
+        "value": "18610.2"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 1,
+        "value": "25800.4"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 2,
+        "value": "15257.9"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 3,
+        "value": "17424.0"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 1,
+        "value": "67492.4"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 2,
+        "value": "34768.6"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 3,
+        "value": "34043.8"
+    }
+]

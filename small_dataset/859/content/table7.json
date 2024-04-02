@@ -1,0 +1,155 @@
+[
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 0,
+        "end_column": 0,
+        "value": ""
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 1,
+        "end_column": 1,
+        "value": "资产总计（亿元）"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 2,
+        "end_column": 2,
+        "value": "负债合计（亿元）"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 3,
+        "end_column": 3,
+        "value": "营业收入（亿元）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 1,
+        "end_index": 1,
+        "value": "合　计"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 2,
+        "end_index": 2,
+        "value": "房屋建筑业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 3,
+        "end_index": 3,
+        "value": "土木工程建筑业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 4,
+        "end_index": 4,
+        "value": "建筑安装业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 5,
+        "end_index": 5,
+        "value": "建筑装饰、装修和其他建筑业"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 1,
+        "value": "342355.6"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 2,
+        "value": "223073.8"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 3,
+        "value": "256277.9"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 1,
+        "value": "144265.0"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 2,
+        "value": "92030.9"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 3,
+        "value": "137640.9"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 1,
+        "value": "140336.8"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 2,
+        "value": "93453.8"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 3,
+        "value": "74793.7"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 1,
+        "value": "21127.7"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 2,
+        "value": "19410.2"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 3,
+        "value": "18285.9"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 1,
+        "value": "36626.0"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 2,
+        "value": "18179.0"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 3,
+        "value": "25557.4"
+    }
+]

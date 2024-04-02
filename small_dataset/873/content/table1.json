@@ -1,0 +1,815 @@
+[
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 0,
+        "end_column": 0,
+        "value": "一级指标"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 1,
+        "end_column": 1,
+        "value": "二级指标"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 2,
+        "end_column": 2,
+        "value": "三级指标"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 3,
+        "end_column": 3,
+        "value": "权重"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 1,
+        "end_index": 8,
+        "value": "创新发展"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 1,
+        "end_index": 3,
+        "value": "创新投入"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 1,
+        "end_index": 1,
+        "value": "每万常住人口专业技术人员数"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 2,
+        "end_index": 2,
+        "value": "研究与试验发展（R&D）经费支出相当于 地区生产总值的比例"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 3,
+        "end_index": 3,
+        "value": "科学技术支出占一般公共预算支出比重"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 4,
+        "end_index": 6,
+        "value": "创新产出"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 4,
+        "end_index": 4,
+        "value": "每万常住人口发明专利拥有量"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 5,
+        "end_index": 5,
+        "value": "技术市场成交额占全国的比重"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 6,
+        "end_index": 6,
+        "value": "高技术产业新产品销售收入占新产品销售收入比重"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 7,
+        "end_index": 8,
+        "value": "创新效率"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 7,
+        "end_index": 7,
+        "value": "每亿元研发投入经费的专利授权量"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 8,
+        "end_index": 8,
+        "value": "劳动生产率"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 9,
+        "end_index": 16,
+        "value": "协调发展"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 9,
+        "end_index": 11,
+        "value": "区域协调"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 9,
+        "end_index": 9,
+        "value": "省（市）级人均GDP差距"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 10,
+        "end_index": 10,
+        "value": "县（市、区）人均GDP差距"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 11,
+        "end_index": 11,
+        "value": "省（市）级人均一般公共预算支出差距"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 12,
+        "end_index": 13,
+        "value": "城乡协调"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 12,
+        "end_index": 12,
+        "value": "城乡居民人均可支配收入差距"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 13,
+        "end_index": 13,
+        "value": "城镇化率"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 14,
+        "end_index": 16,
+        "value": "精神文明物质文明协调"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 14,
+        "end_index": 14,
+        "value": "文体娱乐业固定资产投资与地区生产总值之比"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 15,
+        "end_index": 15,
+        "value": "居民文教娱乐服务支出占居民家庭消费支出比重"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 16,
+        "end_index": 16,
+        "value": "互联网普及率"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 17,
+        "end_index": 27,
+        "value": "绿色发展"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 17,
+        "end_index": 19,
+        "value": "节能减排"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 17,
+        "end_index": 17,
+        "value": "单位GDP能耗"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 18,
+        "end_index": 18,
+        "value": "单位工业增加值用水量"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 19,
+        "end_index": 19,
+        "value": "单位GDP二氧化硫排放量"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 20,
+        "end_index": 21,
+        "value": "空气质量"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 20,
+        "end_index": 20,
+        "value": "全年空气质量二级以上天数比重"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 21,
+        "end_index": 21,
+        "value": "PM2.5平均浓度[5]"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 22,
+        "end_index": 23,
+        "value": "绿色投资"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 22,
+        "end_index": 22,
+        "value": "节能环保支出占一般公共预算支出比重"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 23,
+        "end_index": 23,
+        "value": "环境污染治理投资占地区生产总值的比重"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 24,
+        "end_index": 27,
+        "value": "生态建设"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 24,
+        "end_index": 24,
+        "value": "人均城市绿地面积"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 25,
+        "end_index": 25,
+        "value": "湿地面积占辖区面积比重"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 26,
+        "end_index": 26,
+        "value": "人均水资源量"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 27,
+        "end_index": 27,
+        "value": "地表水劣Ｖ类比例"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 28,
+        "end_index": 35,
+        "value": "开放发展"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 28,
+        "end_index": 29,
+        "value": "利用外资"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 28,
+        "end_index": 28,
+        "value": "实际利用外资额与地区生产总值之比"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 29,
+        "end_index": 29,
+        "value": "新注册外资企业数占新注册企业总数比重"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 30,
+        "end_index": 31,
+        "value": "对外投资"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 30,
+        "end_index": 30,
+        "value": "对外直接投资与地区生产总值之比"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 31,
+        "end_index": 31,
+        "value": "对外承包工程完成营业额与地区生产总值之比"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 32,
+        "end_index": 33,
+        "value": "贸易开放"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 32,
+        "end_index": 32,
+        "value": "货物和服务贸易进出口总额与地区生产总值之比"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 33,
+        "end_index": 33,
+        "value": "高技术产品出口额占出口额比重"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 34,
+        "end_index": 35,
+        "value": "人员往来"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 34,
+        "end_index": 34,
+        "value": "对外劳务合作派出劳务人数与常住人口之比"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 35,
+        "end_index": 35,
+        "value": "入境旅游人数与国内外游客接待量之比"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 36,
+        "end_index": 48,
+        "value": "共享发展"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 36,
+        "end_index": 40,
+        "value": "基本公共 服务共享"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 36,
+        "end_index": 36,
+        "value": "人均一般公共服务支出"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 37,
+        "end_index": 37,
+        "value": "城乡基本养老保险覆盖面"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 38,
+        "end_index": 38,
+        "value": "每千常住人口卫生技术人员数"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 39,
+        "end_index": 39,
+        "value": "生均公共财政预算教育经费"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 40,
+        "end_index": 40,
+        "value": "接受就业指导与登记求职人数之比"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 41,
+        "end_index": 43,
+        "value": "基础设施 共享"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 41,
+        "end_index": 41,
+        "value": "基础设施投资占固定资产投资比重"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 42,
+        "end_index": 42,
+        "value": "高速公路里程密度"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 43,
+        "end_index": 43,
+        "value": "铁路里程密度"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 44,
+        "end_index": 46,
+        "value": "教育公平[6]"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 44,
+        "end_index": 44,
+        "value": "本科录取率的地区差距"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 45,
+        "end_index": 45,
+        "value": "大专及以上学历人数占6岁及以上常住人口比重"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 46,
+        "end_index": 46,
+        "value": "中、小学专任教师与在校生之比"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 47,
+        "end_index": 48,
+        "value": "脱贫攻坚"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 47,
+        "end_index": 47,
+        "value": "最低生活保障人数占常住人口比重"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 48,
+        "end_index": 48,
+        "value": "贫困发生率"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 3,
+        "value": "2"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 3,
+        "value": "3"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 3,
+        "value": "2"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 2,
+        "value": "2.5"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 3,
+        "value": "2.5"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 3,
+        "value": "2"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 2,
+        "value": "3"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 3,
+        "value": "3"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 3,
+        "value": "3"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 3,
+        "value": "3"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 3,
+        "value": "2.5"
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 2,
+        "value": "3"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 3,
+        "value": "2.5"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 2,
+        "value": "2"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 3,
+        "value": "2"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 3,
+        "value": "2"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 3,
+        "value": "2"
+    },
+    {
+        "type": "C",
+        "row_index": 18,
+        "column_index": 3,
+        "value": "2"
+    },
+    {
+        "type": "C",
+        "row_index": 19,
+        "column_index": 3,
+        "value": "1"
+    },
+    {
+        "type": "C",
+        "row_index": 20,
+        "column_index": 2,
+        "value": "1.5"
+    },
+    {
+        "type": "C",
+        "row_index": 21,
+        "column_index": 3,
+        "value": "2.5"
+    },
+    {
+        "type": "C",
+        "row_index": 22,
+        "column_index": 2,
+        "value": "2"
+    },
+    {
+        "type": "C",
+        "row_index": 23,
+        "column_index": 3,
+        "value": "2"
+    },
+    {
+        "type": "C",
+        "row_index": 24,
+        "column_index": 2,
+        "value": "2"
+    },
+    {
+        "type": "C",
+        "row_index": 25,
+        "column_index": 3,
+        "value": "1"
+    },
+    {
+        "type": "C",
+        "row_index": 26,
+        "column_index": 3,
+        "value": "2"
+    },
+    {
+        "type": "C",
+        "row_index": 27,
+        "column_index": 3,
+        "value": "2"
+    },
+    {
+        "type": "C",
+        "row_index": 28,
+        "column_index": 3,
+        "value": "3"
+    },
+    {
+        "type": "C",
+        "row_index": 29,
+        "column_index": 3,
+        "value": "2"
+    },
+    {
+        "type": "C",
+        "row_index": 30,
+        "column_index": 2,
+        "value": "3"
+    },
+    {
+        "type": "C",
+        "row_index": 31,
+        "column_index": 3,
+        "value": "2"
+    },
+    {
+        "type": "C",
+        "row_index": 32,
+        "column_index": 2,
+        "value": "2"
+    },
+    {
+        "type": "C",
+        "row_index": 33,
+        "column_index": 3,
+        "value": "3"
+    },
+    {
+        "type": "C",
+        "row_index": 34,
+        "column_index": 2,
+        "value": "2"
+    },
+    {
+        "type": "C",
+        "row_index": 35,
+        "column_index": 3,
+        "value": "3"
+    },
+    {
+        "type": "C",
+        "row_index": 36,
+        "column_index": 3,
+        "value": "1.5"
+    },
+    {
+        "type": "C",
+        "row_index": 37,
+        "column_index": 3,
+        "value": "1"
+    },
+    {
+        "type": "C",
+        "row_index": 38,
+        "column_index": 3,
+        "value": "1"
+    },
+    {
+        "type": "C",
+        "row_index": 39,
+        "column_index": 3,
+        "value": "1"
+    },
+    {
+        "type": "C",
+        "row_index": 40,
+        "column_index": 3,
+        "value": "0.5"
+    },
+    {
+        "type": "C",
+        "row_index": 41,
+        "column_index": 2,
+        "value": "3"
+    },
+    {
+        "type": "C",
+        "row_index": 42,
+        "column_index": 3,
+        "value": "1"
+    },
+    {
+        "type": "C",
+        "row_index": 43,
+        "column_index": 3,
+        "value": "1"
+    },
+    {
+        "type": "C",
+        "row_index": 44,
+        "column_index": 2,
+        "value": "2"
+    },
+    {
+        "type": "C",
+        "row_index": 45,
+        "column_index": 3,
+        "value": "2"
+    },
+    {
+        "type": "C",
+        "row_index": 46,
+        "column_index": 3,
+        "value": "1"
+    },
+    {
+        "type": "C",
+        "row_index": 47,
+        "column_index": 2,
+        "value": "2.5"
+    },
+    {
+        "type": "C",
+        "row_index": 48,
+        "column_index": 3,
+        "value": "2.5"
+    }
+]

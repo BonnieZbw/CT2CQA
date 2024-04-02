@@ -1,0 +1,617 @@
+[
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 0,
+        "end_column": 0,
+        "value": "分　组"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 1,
+        "end_column": 1,
+        "value": "营业收入利润率"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 2,
+        "end_column": 2,
+        "value": "每百元营业收入中的成本"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 3,
+        "end_column": 3,
+        "value": "每百元营业收入中的费用"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 4,
+        "end_column": 4,
+        "value": "每百元资产实现的营业收入"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 5,
+        "end_column": 5,
+        "value": "人均营业收入"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 6,
+        "end_column": 6,
+        "value": "资产负债率"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 7,
+        "end_column": 7,
+        "value": "产成品存货周转天数"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 8,
+        "end_column": 8,
+        "value": "应收票据及应收账款平均回收期"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 1,
+        "end_column": 1,
+        "value": "1—5月"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 2,
+        "end_column": 2,
+        "value": "1—5月"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 3,
+        "end_column": 3,
+        "value": "1—5月"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 4,
+        "end_column": 4,
+        "value": "5月末"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 5,
+        "end_column": 5,
+        "value": "5月末"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 6,
+        "end_column": 6,
+        "value": "5月末"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 7,
+        "end_column": 7,
+        "value": "5月末"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 8,
+        "end_column": 8,
+        "value": "5月末"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 2,
+        "start_column": 1,
+        "end_column": 1,
+        "value": "(%)"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 2,
+        "start_column": 2,
+        "end_column": 2,
+        "value": "(元)"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 2,
+        "start_column": 3,
+        "end_column": 3,
+        "value": "(元)"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 2,
+        "start_column": 4,
+        "end_column": 4,
+        "value": "(元)"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 2,
+        "start_column": 5,
+        "end_column": 5,
+        "value": "(万元/人)"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 2,
+        "start_column": 6,
+        "end_column": 6,
+        "value": "(%)"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 2,
+        "start_column": 7,
+        "end_column": 7,
+        "value": "(天)"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 2,
+        "start_column": 8,
+        "end_column": 8,
+        "value": "(天)"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 1,
+        "end_index": 1,
+        "value": "总计"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 2,
+        "end_index": 2,
+        "value": "其中：采矿业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 3,
+        "end_index": 3,
+        "value": "制造业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 4,
+        "end_index": 4,
+        "value": "电力、热力、燃气及水生产和供应业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 5,
+        "end_index": 5,
+        "value": "其中：国有控股企业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 6,
+        "end_index": 6,
+        "value": "其中：股份制企业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 7,
+        "end_index": 7,
+        "value": "外商及港澳台商投资企业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 8,
+        "end_index": 8,
+        "value": "其中：私营企业"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 1,
+        "value": "5.72"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 2,
+        "value": "84.36"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 3,
+        "value": "8.64"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 4,
+        "value": "89.5"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 5,
+        "value": "132.8"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 6,
+        "value": "56.8"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 7,
+        "value": "17.5"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 8,
+        "value": "54.9"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 1,
+        "value": "12.88"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 2,
+        "value": "71.84"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 3,
+        "value": "11.37"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 4,
+        "value": "44.7"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 5,
+        "value": "90.7"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 6,
+        "value": "59.5"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 7,
+        "value": "13.1"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 8,
+        "value": "45.4"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 1,
+        "value": "5.31"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 2,
+        "value": "84.68"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 3,
+        "value": "8.70"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 4,
+        "value": "105.0"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 5,
+        "value": "131.3"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 6,
+        "value": "55.9"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 7,
+        "value": "19.2"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 8,
+        "value": "57.0"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 1,
+        "value": "6.42"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 2,
+        "value": "87.93"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 3,
+        "value": "6.27"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 4,
+        "value": "41.1"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 5,
+        "value": "225.3"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 6,
+        "value": "59.6"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 7,
+        "value": "0.5"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 8,
+        "value": "34.7"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 1,
+        "value": "6.43"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 2,
+        "value": "81.25"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 3,
+        "value": "7.86"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 4,
+        "value": "61.6"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 5,
+        "value": "202.8"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 6,
+        "value": "58.3"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 7,
+        "value": "14.7"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 8,
+        "value": "50.1"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 1,
+        "value": "5.69"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 2,
+        "value": "84.08"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 3,
+        "value": "8.78"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 4,
+        "value": "87.3"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 5,
+        "value": "132.4"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 6,
+        "value": "58.2"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 7,
+        "value": "18.0"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 8,
+        "value": "52.4"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 1,
+        "value": "6.10"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 2,
+        "value": "84.48"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 3,
+        "value": "8.96"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 4,
+        "value": "104.3"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 5,
+        "value": "128.1"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 6,
+        "value": "53.1"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 7,
+        "value": "18.4"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 8,
+        "value": "69.5"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 1,
+        "value": "4.80"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 2,
+        "value": "87.01"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 3,
+        "value": "7.94"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 4,
+        "value": "132.3"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 5,
+        "value": "112.1"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 6,
+        "value": "58.1"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 7,
+        "value": "16.8"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 8,
+        "value": "45.1"
+    }
+]

@@ -1,0 +1,524 @@
+[
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 0,
+        "end_column": 0,
+        "value": "指标"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 1,
+        "end_column": 1,
+        "value": "绝对量（元）"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 2,
+        "end_column": 2,
+        "value": "同比增长（%）\n（括号内为实际增速）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 1,
+        "end_index": 1,
+        "value": "（一）全国居民人均可支配收入"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 2,
+        "end_index": 2,
+        "value": "按常住地分："
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 3,
+        "end_index": 3,
+        "value": "城镇居民"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 4,
+        "end_index": 4,
+        "value": "农村居民"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 5,
+        "end_index": 5,
+        "value": "按收入来源分："
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 6,
+        "end_index": 6,
+        "value": "工资性收入"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 7,
+        "end_index": 7,
+        "value": "经营净收入"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 8,
+        "end_index": 8,
+        "value": "财产净收入"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 9,
+        "end_index": 9,
+        "value": "转移净收入"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 10,
+        "end_index": 10,
+        "value": "（二）全国居民人均可支配收入中位数"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 11,
+        "end_index": 11,
+        "value": "按常住地分："
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 12,
+        "end_index": 12,
+        "value": "城镇居民"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 13,
+        "end_index": 13,
+        "value": "农村居民"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 14,
+        "end_index": 14,
+        "value": "（三）全国居民人均消费支出"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 15,
+        "end_index": 15,
+        "value": "按常住地分："
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 16,
+        "end_index": 16,
+        "value": "城镇居民"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 17,
+        "end_index": 17,
+        "value": "农村居民"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 18,
+        "end_index": 18,
+        "value": "按消费类别分："
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 19,
+        "end_index": 19,
+        "value": "食品烟酒"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 20,
+        "end_index": 20,
+        "value": "衣着"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 21,
+        "end_index": 21,
+        "value": "居住"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 22,
+        "end_index": 22,
+        "value": "生活用品及服务"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 23,
+        "end_index": 23,
+        "value": "交通通信"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 24,
+        "end_index": 24,
+        "value": "教育文化娱乐"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 25,
+        "end_index": 25,
+        "value": "医疗保健"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 26,
+        "end_index": 26,
+        "value": "其他用品及服务"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 27,
+        "end_index": 27,
+        "value": "注:\n①全国居民人均可支配收入＝城镇居民人均可支配收入*城镇人口比重+农村居民人均可支配收入*农村人口比重。\n②居民人均可支配收入名义增速＝（报告期居民人均可支配收入/基期居民人均可支配收入-1）*100%；居民人均可支配收入实际增速=（报告期居民人均可支配收入/基期居民人均可支配收入/报告期居民消费价格指数*100-1）*100%。\n③全国居民人均收支数据是根据全国十六万户抽样调查基础数据，依据每个样本户所代表的户数加权汇总而成。由于受城镇化和人口迁移等因素影响，各时期的分城乡、分地区人口构成发生变化，有时会导致全国居民的部分收支项目增速超出分城乡居民相应收支项目增速区间的现象发生。主要是在城镇化过程中，一部分在农村收入较高的人口进入城镇地区，但在城镇属于较低收入人群，他们的迁移对城乡居民部分收支均有拉低作用；但无论在城镇还是农村，其增长效应都会体现在全体居民的收支增长中。\n④比上年增长栏中，括号中数据为实际增速，其他为名义增速。\n⑤收入平均数和中位数都是反映居民收入集中趋势的统计量。平均数既能直观反映总体情况，又能反映总体结构，便于不同群体收入水平的比较，但容易受极端数据影响；中位数反映中间位置对象情况，较为稳健，能够避免极端数据影响，但不能反映结构情况。"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 1,
+        "value": "27650"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 2,
+        "value": "5.3（3.2）"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 1,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 2,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 1,
+        "value": "37482"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 2,
+        "value": "4.3（2.3）"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 1,
+        "value": "14600"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 2,
+        "value": "6.4（4.3）"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 1,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 2,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 1,
+        "value": "15678"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 2,
+        "value": "5.1"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 1,
+        "value": "4352"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 2,
+        "value": "5.2"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 1,
+        "value": "2463"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 2,
+        "value": "5.8"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 1,
+        "value": "5157"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 2,
+        "value": "5.6"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 1,
+        "value": "23277"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 2,
+        "value": "5.1"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 1,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 2,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 1,
+        "value": "33796"
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 2,
+        "value": "4.3"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 1,
+        "value": "12668"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 2,
+        "value": "5.9"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 1,
+        "value": "17878"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 2,
+        "value": "3.5（1.5）"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 1,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 2,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 1,
+        "value": "22385"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 2,
+        "value": "1.8（-0.2）"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 1,
+        "value": "11896"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 2,
+        "value": "6.4（4.3）"
+    },
+    {
+        "type": "C",
+        "row_index": 18,
+        "column_index": 1,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 18,
+        "column_index": 2,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 19,
+        "column_index": 1,
+        "value": "5430"
+    },
+    {
+        "type": "C",
+        "row_index": 19,
+        "column_index": 2,
+        "value": "5.6"
+    },
+    {
+        "type": "C",
+        "row_index": 20,
+        "column_index": 1,
+        "value": "991"
+    },
+    {
+        "type": "C",
+        "row_index": 20,
+        "column_index": 2,
+        "value": "-1.1"
+    },
+    {
+        "type": "C",
+        "row_index": 21,
+        "column_index": 1,
+        "value": "4243"
+    },
+    {
+        "type": "C",
+        "row_index": 21,
+        "column_index": 2,
+        "value": "5.3"
+    },
+    {
+        "type": "C",
+        "row_index": 22,
+        "column_index": 1,
+        "value": "1043"
+    },
+    {
+        "type": "C",
+        "row_index": 22,
+        "column_index": 2,
+        "value": "2.2"
+    },
+    {
+        "type": "C",
+        "row_index": 23,
+        "column_index": 1,
+        "value": "2340"
+    },
+    {
+        "type": "C",
+        "row_index": 23,
+        "column_index": 2,
+        "value": "4.6"
+    },
+    {
+        "type": "C",
+        "row_index": 24,
+        "column_index": 1,
+        "value": "1790"
+    },
+    {
+        "type": "C",
+        "row_index": 24,
+        "column_index": 2,
+        "value": "-4.2"
+    },
+    {
+        "type": "C",
+        "row_index": 25,
+        "column_index": 1,
+        "value": "1596"
+    },
+    {
+        "type": "C",
+        "row_index": 25,
+        "column_index": 2,
+        "value": "2.5"
+    },
+    {
+        "type": "C",
+        "row_index": 26,
+        "column_index": 1,
+        "value": "445"
+    },
+    {
+        "type": "C",
+        "row_index": 26,
+        "column_index": 2,
+        "value": "7.2"
+    }
+]

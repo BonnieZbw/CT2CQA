@@ -1,0 +1,1815 @@
+[
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 0,
+        "end_column": 0,
+        "value": "城市"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 1,
+        "end_column": 1,
+        "value": "环比"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 2,
+        "end_column": 2,
+        "value": "同比"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 3,
+        "end_column": 3,
+        "value": "定基"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 4,
+        "end_column": 4,
+        "value": "城市"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 5,
+        "end_column": 5,
+        "value": "环比"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 6,
+        "end_column": 6,
+        "value": "同比"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 7,
+        "end_column": 7,
+        "value": "定基"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 1,
+        "end_column": 1,
+        "value": "上月=100"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 2,
+        "end_column": 2,
+        "value": "上年同月=100"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 3,
+        "end_column": 3,
+        "value": "2015年=100"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 5,
+        "end_column": 5,
+        "value": "上月=100"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 6,
+        "end_column": 6,
+        "value": "上年同月=100"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 7,
+        "end_column": 7,
+        "value": "2015年=100"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 1,
+        "end_index": 1,
+        "value": "北　　京"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 2,
+        "end_index": 2,
+        "value": "天　　津"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 3,
+        "end_index": 3,
+        "value": "石 家 庄"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 4,
+        "end_index": 4,
+        "value": "太　　原"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 5,
+        "end_index": 5,
+        "value": "呼和浩特"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 6,
+        "end_index": 6,
+        "value": "沈　　阳"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 7,
+        "end_index": 7,
+        "value": "大　　连"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 8,
+        "end_index": 8,
+        "value": "长　　春"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 9,
+        "end_index": 9,
+        "value": "哈 尔 滨"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 10,
+        "end_index": 10,
+        "value": "上　　海"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 11,
+        "end_index": 11,
+        "value": "南　　京"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 12,
+        "end_index": 12,
+        "value": "杭　　州"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 13,
+        "end_index": 13,
+        "value": "宁　　波"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 14,
+        "end_index": 14,
+        "value": "合　　肥"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 15,
+        "end_index": 15,
+        "value": "福　　州"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 16,
+        "end_index": 16,
+        "value": "厦　　门"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 17,
+        "end_index": 17,
+        "value": "南　　昌"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 18,
+        "end_index": 18,
+        "value": "济　　南"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 19,
+        "end_index": 19,
+        "value": "青　　岛"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 20,
+        "end_index": 20,
+        "value": "郑　　州"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 21,
+        "end_index": 21,
+        "value": "武　　汉"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 22,
+        "end_index": 22,
+        "value": "长　　沙"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 23,
+        "end_index": 23,
+        "value": "广　　州"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 24,
+        "end_index": 24,
+        "value": "深　　圳"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 25,
+        "end_index": 25,
+        "value": "南　　宁"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 26,
+        "end_index": 26,
+        "value": "海　　口"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 27,
+        "end_index": 27,
+        "value": "重　　庆"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 28,
+        "end_index": 28,
+        "value": "成　　都"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 29,
+        "end_index": 29,
+        "value": "贵　　阳"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 30,
+        "end_index": 30,
+        "value": "昆　　明"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 31,
+        "end_index": 31,
+        "value": "西　　安"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 32,
+        "end_index": 32,
+        "value": "兰　　州"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 33,
+        "end_index": 33,
+        "value": "西　　宁"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 34,
+        "end_index": 34,
+        "value": "银　　川"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 35,
+        "end_index": 35,
+        "value": "乌鲁木齐"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 1,
+        "value": "100.6"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 2,
+        "value": "103.9"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 3,
+        "value": "140.7"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 4,
+        "value": "唐　　山"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 5,
+        "value": "100.9"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 6,
+        "value": "113.8"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 7,
+        "value": "126.8"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 1,
+        "value": "100.2"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 2,
+        "value": "102.1"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 3,
+        "value": "132.8"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 4,
+        "value": "秦 皇 岛"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 5,
+        "value": "100.8"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 6,
+        "value": "120.3"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 7,
+        "value": "140.9"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 1,
+        "value": "101.2"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 2,
+        "value": "117.5"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 3,
+        "value": "148.9"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 4,
+        "value": "包　　头"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 5,
+        "value": "100.5"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 6,
+        "value": "111.2"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 7,
+        "value": "120.0"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 1,
+        "value": "100.4"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 2,
+        "value": "111.2"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 3,
+        "value": "128.6"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 4,
+        "value": "丹　　东"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 5,
+        "value": "100.5"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 6,
+        "value": "113.0"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 7,
+        "value": "123.8"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 1,
+        "value": "100.8"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 2,
+        "value": "121.4"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 3,
+        "value": "135.1"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 4,
+        "value": "锦　　州"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 5,
+        "value": "100.7"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 6,
+        "value": "113.7"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 7,
+        "value": "114.5"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 1,
+        "value": "100.9"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 2,
+        "value": "111.7"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 3,
+        "value": "133.9"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 4,
+        "value": "吉　　林"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 5,
+        "value": "100.7"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 6,
+        "value": "115.0"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 7,
+        "value": "127.4"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 1,
+        "value": "101.4"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 2,
+        "value": "112.9"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 3,
+        "value": "132.5"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 4,
+        "value": "牡 丹 江"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 5,
+        "value": "100.9"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 6,
+        "value": "113.9"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 7,
+        "value": "120.9"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 1,
+        "value": "100.5"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 2,
+        "value": "110.6"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 3,
+        "value": "129.4"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 4,
+        "value": "无　　锡"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 5,
+        "value": "101.3"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 6,
+        "value": "109.3"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 7,
+        "value": "144.5"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 1,
+        "value": "100.7"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 2,
+        "value": "114.0"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 3,
+        "value": "135.2"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 4,
+        "value": "扬　　州"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 5,
+        "value": "100.5"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 6,
+        "value": "113.3"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 7,
+        "value": "140.6"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 1,
+        "value": "99.9"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 2,
+        "value": "101.7"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 3,
+        "value": "147.2"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 4,
+        "value": "徐　　州"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 5,
+        "value": "101.3"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 6,
+        "value": "117.7"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 7,
+        "value": "147.6"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 1,
+        "value": "100.8"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 2,
+        "value": "104.0"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 3,
+        "value": "150.7"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 4,
+        "value": "温　　州"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 5,
+        "value": "100.7"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 6,
+        "value": "103.5"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 7,
+        "value": "118.1"
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 1,
+        "value": "100.8"
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 2,
+        "value": "108.5"
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 3,
+        "value": "144.7"
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 4,
+        "value": "金　　华"
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 5,
+        "value": "101.4"
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 6,
+        "value": "106.2"
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 7,
+        "value": "129.1"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 1,
+        "value": "101.1"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 2,
+        "value": "107.8"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 3,
+        "value": "133.6"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 4,
+        "value": "蚌　　埠"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 5,
+        "value": "100.6"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 6,
+        "value": "109.3"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 7,
+        "value": "127.8"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 1,
+        "value": "100.1"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 2,
+        "value": "107.4"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 3,
+        "value": "158.8"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 4,
+        "value": "安　　庆"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 5,
+        "value": "100.6"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 6,
+        "value": "111.2"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 7,
+        "value": "125.8"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 1,
+        "value": "100.9"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 2,
+        "value": "112.9"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 3,
+        "value": "142.2"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 4,
+        "value": "泉　　州"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 5,
+        "value": "100.1"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 6,
+        "value": "101.6"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 7,
+        "value": "112.4"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 1,
+        "value": "100.3"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 2,
+        "value": "100.4"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 3,
+        "value": "153.5"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 4,
+        "value": "九　　江"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 5,
+        "value": "100.6"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 6,
+        "value": "110.5"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 7,
+        "value": "135.9"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 1,
+        "value": "100.5"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 2,
+        "value": "110.7"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 3,
+        "value": "139.0"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 4,
+        "value": "赣　　州"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 5,
+        "value": "100.2"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 6,
+        "value": "106.7"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 7,
+        "value": "125.2"
+    },
+    {
+        "type": "C",
+        "row_index": 18,
+        "column_index": 1,
+        "value": "100.4"
+    },
+    {
+        "type": "C",
+        "row_index": 18,
+        "column_index": 2,
+        "value": "118.3"
+    },
+    {
+        "type": "C",
+        "row_index": 18,
+        "column_index": 3,
+        "value": "145.3"
+    },
+    {
+        "type": "C",
+        "row_index": 18,
+        "column_index": 4,
+        "value": "烟　　台"
+    },
+    {
+        "type": "C",
+        "row_index": 18,
+        "column_index": 5,
+        "value": "100.8"
+    },
+    {
+        "type": "C",
+        "row_index": 18,
+        "column_index": 6,
+        "value": "113.2"
+    },
+    {
+        "type": "C",
+        "row_index": 18,
+        "column_index": 7,
+        "value": "133.5"
+    },
+    {
+        "type": "C",
+        "row_index": 19,
+        "column_index": 1,
+        "value": "100.7"
+    },
+    {
+        "type": "C",
+        "row_index": 19,
+        "column_index": 2,
+        "value": "113.2"
+    },
+    {
+        "type": "C",
+        "row_index": 19,
+        "column_index": 3,
+        "value": "136.8"
+    },
+    {
+        "type": "C",
+        "row_index": 19,
+        "column_index": 4,
+        "value": "济　　宁"
+    },
+    {
+        "type": "C",
+        "row_index": 19,
+        "column_index": 5,
+        "value": "101.0"
+    },
+    {
+        "type": "C",
+        "row_index": 19,
+        "column_index": 6,
+        "value": "114.7"
+    },
+    {
+        "type": "C",
+        "row_index": 19,
+        "column_index": 7,
+        "value": "128.2"
+    },
+    {
+        "type": "C",
+        "row_index": 20,
+        "column_index": 1,
+        "value": "100.3"
+    },
+    {
+        "type": "C",
+        "row_index": 20,
+        "column_index": 2,
+        "value": "108.9"
+    },
+    {
+        "type": "C",
+        "row_index": 20,
+        "column_index": 3,
+        "value": "144.3"
+    },
+    {
+        "type": "C",
+        "row_index": 20,
+        "column_index": 4,
+        "value": "洛　　阳"
+    },
+    {
+        "type": "C",
+        "row_index": 20,
+        "column_index": 5,
+        "value": "101.7"
+    },
+    {
+        "type": "C",
+        "row_index": 20,
+        "column_index": 6,
+        "value": "114.1"
+    },
+    {
+        "type": "C",
+        "row_index": 20,
+        "column_index": 7,
+        "value": "132.3"
+    },
+    {
+        "type": "C",
+        "row_index": 21,
+        "column_index": 1,
+        "value": "101.2"
+    },
+    {
+        "type": "C",
+        "row_index": 21,
+        "column_index": 2,
+        "value": "114.8"
+    },
+    {
+        "type": "C",
+        "row_index": 21,
+        "column_index": 3,
+        "value": "150.7"
+    },
+    {
+        "type": "C",
+        "row_index": 21,
+        "column_index": 4,
+        "value": "平 顶 山"
+    },
+    {
+        "type": "C",
+        "row_index": 21,
+        "column_index": 5,
+        "value": "100.6"
+    },
+    {
+        "type": "C",
+        "row_index": 21,
+        "column_index": 6,
+        "value": "108.5"
+    },
+    {
+        "type": "C",
+        "row_index": 21,
+        "column_index": 7,
+        "value": "124.2"
+    },
+    {
+        "type": "C",
+        "row_index": 22,
+        "column_index": 1,
+        "value": "100.9"
+    },
+    {
+        "type": "C",
+        "row_index": 22,
+        "column_index": 2,
+        "value": "110.2"
+    },
+    {
+        "type": "C",
+        "row_index": 22,
+        "column_index": 3,
+        "value": "142.5"
+    },
+    {
+        "type": "C",
+        "row_index": 22,
+        "column_index": 4,
+        "value": "宜　　昌"
+    },
+    {
+        "type": "C",
+        "row_index": 22,
+        "column_index": 5,
+        "value": "100.4"
+    },
+    {
+        "type": "C",
+        "row_index": 22,
+        "column_index": 6,
+        "value": "112.5"
+    },
+    {
+        "type": "C",
+        "row_index": 22,
+        "column_index": 7,
+        "value": "132.5"
+    },
+    {
+        "type": "C",
+        "row_index": 23,
+        "column_index": 1,
+        "value": "100.8"
+    },
+    {
+        "type": "C",
+        "row_index": 23,
+        "column_index": 2,
+        "value": "112.2"
+    },
+    {
+        "type": "C",
+        "row_index": 23,
+        "column_index": 3,
+        "value": "156.3"
+    },
+    {
+        "type": "C",
+        "row_index": 23,
+        "column_index": 4,
+        "value": "襄　　阳"
+    },
+    {
+        "type": "C",
+        "row_index": 23,
+        "column_index": 5,
+        "value": "100.6"
+    },
+    {
+        "type": "C",
+        "row_index": 23,
+        "column_index": 6,
+        "value": "115.8"
+    },
+    {
+        "type": "C",
+        "row_index": 23,
+        "column_index": 7,
+        "value": "126.9"
+    },
+    {
+        "type": "C",
+        "row_index": 24,
+        "column_index": 1,
+        "value": "100.4"
+    },
+    {
+        "type": "C",
+        "row_index": 24,
+        "column_index": 2,
+        "value": "101.2"
+    },
+    {
+        "type": "C",
+        "row_index": 24,
+        "column_index": 3,
+        "value": "146.4"
+    },
+    {
+        "type": "C",
+        "row_index": 24,
+        "column_index": 4,
+        "value": "岳　　阳"
+    },
+    {
+        "type": "C",
+        "row_index": 24,
+        "column_index": 5,
+        "value": "99.9"
+    },
+    {
+        "type": "C",
+        "row_index": 24,
+        "column_index": 6,
+        "value": "105.4"
+    },
+    {
+        "type": "C",
+        "row_index": 24,
+        "column_index": 7,
+        "value": "122.7"
+    },
+    {
+        "type": "C",
+        "row_index": 25,
+        "column_index": 1,
+        "value": "100.4"
+    },
+    {
+        "type": "C",
+        "row_index": 25,
+        "column_index": 2,
+        "value": "111.6"
+    },
+    {
+        "type": "C",
+        "row_index": 25,
+        "column_index": 3,
+        "value": "139.3"
+    },
+    {
+        "type": "C",
+        "row_index": 25,
+        "column_index": 4,
+        "value": "常　　德"
+    },
+    {
+        "type": "C",
+        "row_index": 25,
+        "column_index": 5,
+        "value": "100.3"
+    },
+    {
+        "type": "C",
+        "row_index": 25,
+        "column_index": 6,
+        "value": "112.4"
+    },
+    {
+        "type": "C",
+        "row_index": 25,
+        "column_index": 7,
+        "value": "126.6"
+    },
+    {
+        "type": "C",
+        "row_index": 26,
+        "column_index": 1,
+        "value": "101.2"
+    },
+    {
+        "type": "C",
+        "row_index": 26,
+        "column_index": 2,
+        "value": "114.7"
+    },
+    {
+        "type": "C",
+        "row_index": 26,
+        "column_index": 3,
+        "value": "143.2"
+    },
+    {
+        "type": "C",
+        "row_index": 26,
+        "column_index": 4,
+        "value": "惠　　州"
+    },
+    {
+        "type": "C",
+        "row_index": 26,
+        "column_index": 5,
+        "value": "100.4"
+    },
+    {
+        "type": "C",
+        "row_index": 26,
+        "column_index": 6,
+        "value": "103.2"
+    },
+    {
+        "type": "C",
+        "row_index": 26,
+        "column_index": 7,
+        "value": "136.0"
+    },
+    {
+        "type": "C",
+        "row_index": 27,
+        "column_index": 1,
+        "value": "101.8"
+    },
+    {
+        "type": "C",
+        "row_index": 27,
+        "column_index": 2,
+        "value": "113.3"
+    },
+    {
+        "type": "C",
+        "row_index": 27,
+        "column_index": 3,
+        "value": "138.4"
+    },
+    {
+        "type": "C",
+        "row_index": 27,
+        "column_index": 4,
+        "value": "湛　　江"
+    },
+    {
+        "type": "C",
+        "row_index": 27,
+        "column_index": 5,
+        "value": "100.6"
+    },
+    {
+        "type": "C",
+        "row_index": 27,
+        "column_index": 6,
+        "value": "108.8"
+    },
+    {
+        "type": "C",
+        "row_index": 27,
+        "column_index": 7,
+        "value": "127.8"
+    },
+    {
+        "type": "C",
+        "row_index": 28,
+        "column_index": 1,
+        "value": "100.4"
+    },
+    {
+        "type": "C",
+        "row_index": 28,
+        "column_index": 2,
+        "value": "113.4"
+    },
+    {
+        "type": "C",
+        "row_index": 28,
+        "column_index": 3,
+        "value": "143.7"
+    },
+    {
+        "type": "C",
+        "row_index": 28,
+        "column_index": 4,
+        "value": "韶　　关"
+    },
+    {
+        "type": "C",
+        "row_index": 28,
+        "column_index": 5,
+        "value": "101.2"
+    },
+    {
+        "type": "C",
+        "row_index": 28,
+        "column_index": 6,
+        "value": "105.1"
+    },
+    {
+        "type": "C",
+        "row_index": 28,
+        "column_index": 7,
+        "value": "124.1"
+    },
+    {
+        "type": "C",
+        "row_index": 29,
+        "column_index": 1,
+        "value": "100.9"
+    },
+    {
+        "type": "C",
+        "row_index": 29,
+        "column_index": 2,
+        "value": "120.5"
+    },
+    {
+        "type": "C",
+        "row_index": 29,
+        "column_index": 3,
+        "value": "145.1"
+    },
+    {
+        "type": "C",
+        "row_index": 29,
+        "column_index": 4,
+        "value": "桂　　林"
+    },
+    {
+        "type": "C",
+        "row_index": 29,
+        "column_index": 5,
+        "value": "100.8"
+    },
+    {
+        "type": "C",
+        "row_index": 29,
+        "column_index": 6,
+        "value": "109.5"
+    },
+    {
+        "type": "C",
+        "row_index": 29,
+        "column_index": 7,
+        "value": "125.0"
+    },
+    {
+        "type": "C",
+        "row_index": 30,
+        "column_index": 1,
+        "value": "100.7"
+    },
+    {
+        "type": "C",
+        "row_index": 30,
+        "column_index": 2,
+        "value": "116.5"
+    },
+    {
+        "type": "C",
+        "row_index": 30,
+        "column_index": 3,
+        "value": "138.1"
+    },
+    {
+        "type": "C",
+        "row_index": 30,
+        "column_index": 4,
+        "value": "北　　海"
+    },
+    {
+        "type": "C",
+        "row_index": 30,
+        "column_index": 5,
+        "value": "101.0"
+    },
+    {
+        "type": "C",
+        "row_index": 30,
+        "column_index": 6,
+        "value": "113.4"
+    },
+    {
+        "type": "C",
+        "row_index": 30,
+        "column_index": 7,
+        "value": "137.2"
+    },
+    {
+        "type": "C",
+        "row_index": 31,
+        "column_index": 1,
+        "value": "102.0"
+    },
+    {
+        "type": "C",
+        "row_index": 31,
+        "column_index": 2,
+        "value": "124.4"
+    },
+    {
+        "type": "C",
+        "row_index": 31,
+        "column_index": 3,
+        "value": "158.8"
+    },
+    {
+        "type": "C",
+        "row_index": 31,
+        "column_index": 4,
+        "value": "三　　亚"
+    },
+    {
+        "type": "C",
+        "row_index": 31,
+        "column_index": 5,
+        "value": "100.4"
+    },
+    {
+        "type": "C",
+        "row_index": 31,
+        "column_index": 6,
+        "value": "109.8"
+    },
+    {
+        "type": "C",
+        "row_index": 31,
+        "column_index": 7,
+        "value": "147.8"
+    },
+    {
+        "type": "C",
+        "row_index": 32,
+        "column_index": 1,
+        "value": "100.6"
+    },
+    {
+        "type": "C",
+        "row_index": 32,
+        "column_index": 2,
+        "value": "110.1"
+    },
+    {
+        "type": "C",
+        "row_index": 32,
+        "column_index": 3,
+        "value": "123.1"
+    },
+    {
+        "type": "C",
+        "row_index": 32,
+        "column_index": 4,
+        "value": "泸　　州"
+    },
+    {
+        "type": "C",
+        "row_index": 32,
+        "column_index": 5,
+        "value": "100.1"
+    },
+    {
+        "type": "C",
+        "row_index": 32,
+        "column_index": 6,
+        "value": "110.9"
+    },
+    {
+        "type": "C",
+        "row_index": 32,
+        "column_index": 7,
+        "value": "124.6"
+    },
+    {
+        "type": "C",
+        "row_index": 33,
+        "column_index": 1,
+        "value": "100.4"
+    },
+    {
+        "type": "C",
+        "row_index": 33,
+        "column_index": 2,
+        "value": "115.7"
+    },
+    {
+        "type": "C",
+        "row_index": 33,
+        "column_index": 3,
+        "value": "124.7"
+    },
+    {
+        "type": "C",
+        "row_index": 33,
+        "column_index": 4,
+        "value": "南　　充"
+    },
+    {
+        "type": "C",
+        "row_index": 33,
+        "column_index": 5,
+        "value": "100.7"
+    },
+    {
+        "type": "C",
+        "row_index": 33,
+        "column_index": 6,
+        "value": "112.0"
+    },
+    {
+        "type": "C",
+        "row_index": 33,
+        "column_index": 7,
+        "value": "129.4"
+    },
+    {
+        "type": "C",
+        "row_index": 34,
+        "column_index": 1,
+        "value": "100.6"
+    },
+    {
+        "type": "C",
+        "row_index": 34,
+        "column_index": 2,
+        "value": "109.6"
+    },
+    {
+        "type": "C",
+        "row_index": 34,
+        "column_index": 3,
+        "value": "118.1"
+    },
+    {
+        "type": "C",
+        "row_index": 34,
+        "column_index": 4,
+        "value": "遵　　义"
+    },
+    {
+        "type": "C",
+        "row_index": 34,
+        "column_index": 5,
+        "value": "100.4"
+    },
+    {
+        "type": "C",
+        "row_index": 34,
+        "column_index": 6,
+        "value": "112.8"
+    },
+    {
+        "type": "C",
+        "row_index": 34,
+        "column_index": 7,
+        "value": "127.4"
+    },
+    {
+        "type": "C",
+        "row_index": 35,
+        "column_index": 1,
+        "value": "100.0"
+    },
+    {
+        "type": "C",
+        "row_index": 35,
+        "column_index": 2,
+        "value": "106.5"
+    },
+    {
+        "type": "C",
+        "row_index": 35,
+        "column_index": 3,
+        "value": "117.2"
+    },
+    {
+        "type": "C",
+        "row_index": 35,
+        "column_index": 4,
+        "value": "大　　理"
+    },
+    {
+        "type": "C",
+        "row_index": 35,
+        "column_index": 5,
+        "value": "101.8"
+    },
+    {
+        "type": "C",
+        "row_index": 35,
+        "column_index": 6,
+        "value": "122.2"
+    },
+    {
+        "type": "C",
+        "row_index": 35,
+        "column_index": 7,
+        "value": "138.2"
+    }
+]

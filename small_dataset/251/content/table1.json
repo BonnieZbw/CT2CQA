@@ -1,0 +1,2611 @@
+[
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 0,
+        "end_column": 0,
+        "value": ""
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 1,
+        "end_column": 2,
+        "value": "8月"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 3,
+        "end_column": 4,
+        "value": "1—8月"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 5,
+        "end_column": 5,
+        "value": ""
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 1,
+        "end_column": 1,
+        "value": "绝对量"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 2,
+        "end_column": 2,
+        "value": "同比增长\n（%）"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 3,
+        "end_column": 3,
+        "value": "绝对量"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 4,
+        "end_column": 5,
+        "value": "同比增长\n（%）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 1,
+        "end_index": 1,
+        "value": "规模以上工业增加值"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 2,
+        "end_index": 2,
+        "value": "分三大门类"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 3,
+        "end_index": 3,
+        "value": "采矿业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 4,
+        "end_index": 4,
+        "value": "制造业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 5,
+        "end_index": 5,
+        "value": "其中：高技术制造业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 6,
+        "end_index": 6,
+        "value": "电力、热力、燃气及水生产和供应业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 7,
+        "end_index": 7,
+        "value": "分经济类型"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 8,
+        "end_index": 8,
+        "value": "其中：国有控股企业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 9,
+        "end_index": 9,
+        "value": "其中：股份制企业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 10,
+        "end_index": 10,
+        "value": "外商及港澳台商投资企业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 11,
+        "end_index": 11,
+        "value": "其中：私营企业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 12,
+        "end_index": 12,
+        "value": "主要行业增加值"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 13,
+        "end_index": 13,
+        "value": "煤炭开采和洗选业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 14,
+        "end_index": 14,
+        "value": "石油和天然气开采业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 15,
+        "end_index": 15,
+        "value": "农副食品加工业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 16,
+        "end_index": 16,
+        "value": "食品制造业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 17,
+        "end_index": 17,
+        "value": "酒、饮料和精制茶制造业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 18,
+        "end_index": 18,
+        "value": "纺织业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 19,
+        "end_index": 19,
+        "value": "化学原料和化学制品制造业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 20,
+        "end_index": 20,
+        "value": "医药制造业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 21,
+        "end_index": 21,
+        "value": "橡胶和塑料制品业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 22,
+        "end_index": 22,
+        "value": "非金属矿物制品业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 23,
+        "end_index": 23,
+        "value": "黑色金属冶炼和压延加工业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 24,
+        "end_index": 24,
+        "value": "有色金属冶炼和压延加工业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 25,
+        "end_index": 25,
+        "value": "金属制品业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 26,
+        "end_index": 26,
+        "value": "通用设备制造业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 27,
+        "end_index": 27,
+        "value": "专用设备制造业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 28,
+        "end_index": 28,
+        "value": "汽车制造业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 29,
+        "end_index": 29,
+        "value": "铁路、船舶、航空航天和其他运输设备制造业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 30,
+        "end_index": 30,
+        "value": "电气机械和器材制造业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 31,
+        "end_index": 31,
+        "value": "计算机、通信和其他电子设备制造业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 32,
+        "end_index": 32,
+        "value": "电力、热力生产和供应业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 33,
+        "end_index": 33,
+        "value": "主要产品产量"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 34,
+        "end_index": 34,
+        "value": "布（亿米）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 35,
+        "end_index": 35,
+        "value": "硫酸（折100％）（万吨）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 36,
+        "end_index": 36,
+        "value": "烧碱（折100％）（万吨）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 37,
+        "end_index": 37,
+        "value": "乙烯（万吨）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 38,
+        "end_index": 38,
+        "value": "化学纤维（万吨）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 39,
+        "end_index": 39,
+        "value": "水泥（万吨）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 40,
+        "end_index": 40,
+        "value": "平板玻璃（万重量箱）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 41,
+        "end_index": 41,
+        "value": "生铁（万吨）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 42,
+        "end_index": 42,
+        "value": "粗钢（万吨）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 43,
+        "end_index": 43,
+        "value": "钢材（万吨）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 44,
+        "end_index": 44,
+        "value": "十种有色金属（万吨）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 45,
+        "end_index": 45,
+        "value": "其中：原铝（电解铝）（万吨）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 46,
+        "end_index": 46,
+        "value": "金属切削机床（万台）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 47,
+        "end_index": 47,
+        "value": "工业机器人（套）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 48,
+        "end_index": 48,
+        "value": "汽车（万辆）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 49,
+        "end_index": 49,
+        "value": "其中：轿车（万辆）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 50,
+        "end_index": 50,
+        "value": "运动型多用途乘用车（SUV）（万辆）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 3,
+        "row_index": 51,
+        "end_index": 51,
+        "value": "其中：新能源汽车（万辆）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 52,
+        "end_index": 52,
+        "value": "发电机组（发电设备）（万千瓦）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 53,
+        "end_index": 53,
+        "value": "微型计算机设备（万台）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 54,
+        "end_index": 54,
+        "value": "移动通信手持机（万台）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 55,
+        "end_index": 55,
+        "value": "其中：智能手机（万台）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 56,
+        "end_index": 56,
+        "value": "集成电路（亿块）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 57,
+        "end_index": 57,
+        "value": "原煤（万吨）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 58,
+        "end_index": 58,
+        "value": "焦炭（万吨）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 59,
+        "end_index": 59,
+        "value": "原油（万吨）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 60,
+        "end_index": 60,
+        "value": "原油加工量（万吨）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 61,
+        "end_index": 61,
+        "value": "天然气（亿立方米）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 62,
+        "end_index": 62,
+        "value": "发电量（亿千瓦时）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 63,
+        "end_index": 63,
+        "value": "火力发电量（亿千瓦时）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 64,
+        "end_index": 64,
+        "value": "水力发电量（亿千瓦时）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 65,
+        "end_index": 65,
+        "value": "核能发电量（亿千瓦时）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 66,
+        "end_index": 66,
+        "value": "风力发电量（亿千瓦时）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 2,
+        "row_index": 67,
+        "end_index": 67,
+        "value": "太阳能发电量（亿千瓦时）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 68,
+        "end_index": 68,
+        "value": "产品销售率（%）"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 69,
+        "end_index": 69,
+        "value": "出口交货值（亿元）"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 2,
+        "value": "4.2"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 4,
+        "value": "3.6"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 1,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 2,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 3,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 4,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 2,
+        "value": "5.3"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 4,
+        "value": "8.7"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 2,
+        "value": "3.1"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 4,
+        "value": "2.7"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 2,
+        "value": "4.6"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 4,
+        "value": "8.4"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 2,
+        "value": "13.6"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 4,
+        "value": "6.0"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 1,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 2,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 3,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 4,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 2,
+        "value": "5.6"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 4,
+        "value": "3.4"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 2,
+        "value": "4.1"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 4,
+        "value": "4.6"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 2,
+        "value": "4.0"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 4,
+        "value": "-0.8"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 2,
+        "value": "1.1"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 4,
+        "value": "3.3"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 1,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 2,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 3,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 4,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 2,
+        "value": "5.8"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 4,
+        "value": "10.9"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 2,
+        "value": "2.3"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 4,
+        "value": "5.3"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 2,
+        "value": "-2.3"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 4,
+        "value": "2.0"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 2,
+        "value": "2.5"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 4,
+        "value": "3.6"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 2,
+        "value": "7.6"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 4,
+        "value": "8.6"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 18,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 18,
+        "column_index": 2,
+        "value": "-5.1"
+    },
+    {
+        "type": "C",
+        "row_index": 18,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 18,
+        "column_index": 4,
+        "value": "-2.0"
+    },
+    {
+        "type": "C",
+        "row_index": 18,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 19,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 19,
+        "column_index": 2,
+        "value": "3.8"
+    },
+    {
+        "type": "C",
+        "row_index": 19,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 19,
+        "column_index": 4,
+        "value": "4.1"
+    },
+    {
+        "type": "C",
+        "row_index": 19,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 20,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 20,
+        "column_index": 2,
+        "value": "-13.1"
+    },
+    {
+        "type": "C",
+        "row_index": 20,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 20,
+        "column_index": 4,
+        "value": "-3.8"
+    },
+    {
+        "type": "C",
+        "row_index": 20,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 21,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 21,
+        "column_index": 2,
+        "value": "-1.2"
+    },
+    {
+        "type": "C",
+        "row_index": 21,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 21,
+        "column_index": 4,
+        "value": "-1.1"
+    },
+    {
+        "type": "C",
+        "row_index": 21,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 22,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 22,
+        "column_index": 2,
+        "value": "-5.0"
+    },
+    {
+        "type": "C",
+        "row_index": 22,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 22,
+        "column_index": 4,
+        "value": "-2.9"
+    },
+    {
+        "type": "C",
+        "row_index": 22,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 23,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 23,
+        "column_index": 2,
+        "value": "-1.3"
+    },
+    {
+        "type": "C",
+        "row_index": 23,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 23,
+        "column_index": 4,
+        "value": "-2.4"
+    },
+    {
+        "type": "C",
+        "row_index": 23,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 24,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 24,
+        "column_index": 2,
+        "value": "3.6"
+    },
+    {
+        "type": "C",
+        "row_index": 24,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 24,
+        "column_index": 4,
+        "value": "3.8"
+    },
+    {
+        "type": "C",
+        "row_index": 24,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 25,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 25,
+        "column_index": 2,
+        "value": "-2.3"
+    },
+    {
+        "type": "C",
+        "row_index": 25,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 25,
+        "column_index": 4,
+        "value": "-0.2"
+    },
+    {
+        "type": "C",
+        "row_index": 25,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 26,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 26,
+        "column_index": 2,
+        "value": "0.8"
+    },
+    {
+        "type": "C",
+        "row_index": 26,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 26,
+        "column_index": 4,
+        "value": "-1.9"
+    },
+    {
+        "type": "C",
+        "row_index": 26,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 27,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 27,
+        "column_index": 2,
+        "value": "4.5"
+    },
+    {
+        "type": "C",
+        "row_index": 27,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 27,
+        "column_index": 4,
+        "value": "4.3"
+    },
+    {
+        "type": "C",
+        "row_index": 27,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 28,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 28,
+        "column_index": 2,
+        "value": "30.5"
+    },
+    {
+        "type": "C",
+        "row_index": 28,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 28,
+        "column_index": 4,
+        "value": "4.5"
+    },
+    {
+        "type": "C",
+        "row_index": 28,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 29,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 29,
+        "column_index": 2,
+        "value": "5.8"
+    },
+    {
+        "type": "C",
+        "row_index": 29,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 29,
+        "column_index": 4,
+        "value": "2.8"
+    },
+    {
+        "type": "C",
+        "row_index": 29,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 30,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 30,
+        "column_index": 2,
+        "value": "14.8"
+    },
+    {
+        "type": "C",
+        "row_index": 30,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 30,
+        "column_index": 4,
+        "value": "10.7"
+    },
+    {
+        "type": "C",
+        "row_index": 30,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 31,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 31,
+        "column_index": 2,
+        "value": "5.5"
+    },
+    {
+        "type": "C",
+        "row_index": 31,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 31,
+        "column_index": 4,
+        "value": "9.3"
+    },
+    {
+        "type": "C",
+        "row_index": 31,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 32,
+        "column_index": 1,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 32,
+        "column_index": 2,
+        "value": "15.3"
+    },
+    {
+        "type": "C",
+        "row_index": 32,
+        "column_index": 3,
+        "value": "…"
+    },
+    {
+        "type": "C",
+        "row_index": 32,
+        "column_index": 4,
+        "value": "5.8"
+    },
+    {
+        "type": "C",
+        "row_index": 32,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 33,
+        "column_index": 1,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 33,
+        "column_index": 2,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 33,
+        "column_index": 3,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 33,
+        "column_index": 4,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 33,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 34,
+        "column_index": 1,
+        "value": "30"
+    },
+    {
+        "type": "C",
+        "row_index": 34,
+        "column_index": 2,
+        "value": "-9.6"
+    },
+    {
+        "type": "C",
+        "row_index": 34,
+        "column_index": 3,
+        "value": "238"
+    },
+    {
+        "type": "C",
+        "row_index": 34,
+        "column_index": 4,
+        "value": "-5.0"
+    },
+    {
+        "type": "C",
+        "row_index": 34,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 35,
+        "column_index": 1,
+        "value": "758"
+    },
+    {
+        "type": "C",
+        "row_index": 35,
+        "column_index": 2,
+        "value": "-6.4"
+    },
+    {
+        "type": "C",
+        "row_index": 35,
+        "column_index": 3,
+        "value": "6281"
+    },
+    {
+        "type": "C",
+        "row_index": 35,
+        "column_index": 4,
+        "value": "-0.4"
+    },
+    {
+        "type": "C",
+        "row_index": 35,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 36,
+        "column_index": 1,
+        "value": "322"
+    },
+    {
+        "type": "C",
+        "row_index": 36,
+        "column_index": 2,
+        "value": "-0.6"
+    },
+    {
+        "type": "C",
+        "row_index": 36,
+        "column_index": 3,
+        "value": "2634"
+    },
+    {
+        "type": "C",
+        "row_index": 36,
+        "column_index": 4,
+        "value": "1.9"
+    },
+    {
+        "type": "C",
+        "row_index": 36,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 37,
+        "column_index": 1,
+        "value": "222"
+    },
+    {
+        "type": "C",
+        "row_index": 37,
+        "column_index": 2,
+        "value": "-8.6"
+    },
+    {
+        "type": "C",
+        "row_index": 37,
+        "column_index": 3,
+        "value": "1838"
+    },
+    {
+        "type": "C",
+        "row_index": 37,
+        "column_index": 4,
+        "value": "-2.3"
+    },
+    {
+        "type": "C",
+        "row_index": 37,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 38,
+        "column_index": 1,
+        "value": "559"
+    },
+    {
+        "type": "C",
+        "row_index": 38,
+        "column_index": 2,
+        "value": "-4.9"
+    },
+    {
+        "type": "C",
+        "row_index": 38,
+        "column_index": 3,
+        "value": "4471"
+    },
+    {
+        "type": "C",
+        "row_index": 38,
+        "column_index": 4,
+        "value": "-1.2"
+    },
+    {
+        "type": "C",
+        "row_index": 38,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 39,
+        "column_index": 1,
+        "value": "18808"
+    },
+    {
+        "type": "C",
+        "row_index": 39,
+        "column_index": 2,
+        "value": "-13.1"
+    },
+    {
+        "type": "C",
+        "row_index": 39,
+        "column_index": 3,
+        "value": "135485"
+    },
+    {
+        "type": "C",
+        "row_index": 39,
+        "column_index": 4,
+        "value": "-14.2"
+    },
+    {
+        "type": "C",
+        "row_index": 39,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 40,
+        "column_index": 1,
+        "value": "8789"
+    },
+    {
+        "type": "C",
+        "row_index": 40,
+        "column_index": 2,
+        "value": "-0.9"
+    },
+    {
+        "type": "C",
+        "row_index": 40,
+        "column_index": 3,
+        "value": "68945"
+    },
+    {
+        "type": "C",
+        "row_index": 40,
+        "column_index": 4,
+        "value": "0.2"
+    },
+    {
+        "type": "C",
+        "row_index": 40,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 41,
+        "column_index": 1,
+        "value": "7137"
+    },
+    {
+        "type": "C",
+        "row_index": 41,
+        "column_index": 2,
+        "value": "-0.5"
+    },
+    {
+        "type": "C",
+        "row_index": 41,
+        "column_index": 3,
+        "value": "58217"
+    },
+    {
+        "type": "C",
+        "row_index": 41,
+        "column_index": 4,
+        "value": "-4.1"
+    },
+    {
+        "type": "C",
+        "row_index": 41,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 42,
+        "column_index": 1,
+        "value": "8387"
+    },
+    {
+        "type": "C",
+        "row_index": 42,
+        "column_index": 2,
+        "value": "0.5"
+    },
+    {
+        "type": "C",
+        "row_index": 42,
+        "column_index": 3,
+        "value": "69315"
+    },
+    {
+        "type": "C",
+        "row_index": 42,
+        "column_index": 4,
+        "value": "-5.7"
+    },
+    {
+        "type": "C",
+        "row_index": 42,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 43,
+        "column_index": 1,
+        "value": "10833"
+    },
+    {
+        "type": "C",
+        "row_index": 43,
+        "column_index": 2,
+        "value": "-1.5"
+    },
+    {
+        "type": "C",
+        "row_index": 43,
+        "column_index": 3,
+        "value": "88465"
+    },
+    {
+        "type": "C",
+        "row_index": 43,
+        "column_index": 4,
+        "value": "-4.3"
+    },
+    {
+        "type": "C",
+        "row_index": 43,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 44,
+        "column_index": 1,
+        "value": "574"
+    },
+    {
+        "type": "C",
+        "row_index": 44,
+        "column_index": 2,
+        "value": "6.7"
+    },
+    {
+        "type": "C",
+        "row_index": 44,
+        "column_index": 3,
+        "value": "4400"
+    },
+    {
+        "type": "C",
+        "row_index": 44,
+        "column_index": 4,
+        "value": "1.9"
+    },
+    {
+        "type": "C",
+        "row_index": 44,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 45,
+        "column_index": 1,
+        "value": "351"
+    },
+    {
+        "type": "C",
+        "row_index": 45,
+        "column_index": 2,
+        "value": "9.6"
+    },
+    {
+        "type": "C",
+        "row_index": 45,
+        "column_index": 3,
+        "value": "2647"
+    },
+    {
+        "type": "C",
+        "row_index": 45,
+        "column_index": 4,
+        "value": "2.1"
+    },
+    {
+        "type": "C",
+        "row_index": 45,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 46,
+        "column_index": 1,
+        "value": "5"
+    },
+    {
+        "type": "C",
+        "row_index": 46,
+        "column_index": 2,
+        "value": "-13.5"
+    },
+    {
+        "type": "C",
+        "row_index": 46,
+        "column_index": 3,
+        "value": "38"
+    },
+    {
+        "type": "C",
+        "row_index": 46,
+        "column_index": 4,
+        "value": "-10.5"
+    },
+    {
+        "type": "C",
+        "row_index": 46,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 47,
+        "column_index": 1,
+        "value": "41261"
+    },
+    {
+        "type": "C",
+        "row_index": 47,
+        "column_index": 2,
+        "value": "-1.1"
+    },
+    {
+        "type": "C",
+        "row_index": 47,
+        "column_index": 3,
+        "value": "277536"
+    },
+    {
+        "type": "C",
+        "row_index": 47,
+        "column_index": 4,
+        "value": "-10.5"
+    },
+    {
+        "type": "C",
+        "row_index": 47,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 48,
+        "column_index": 1,
+        "value": "242.6"
+    },
+    {
+        "type": "C",
+        "row_index": 48,
+        "column_index": 2,
+        "value": "39.0"
+    },
+    {
+        "type": "C",
+        "row_index": 48,
+        "column_index": 3,
+        "value": "1735.8"
+    },
+    {
+        "type": "C",
+        "row_index": 48,
+        "column_index": 4,
+        "value": "6.1"
+    },
+    {
+        "type": "C",
+        "row_index": 48,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 49,
+        "column_index": 1,
+        "value": "94.9"
+    },
+    {
+        "type": "C",
+        "row_index": 49,
+        "column_index": 2,
+        "value": "33.1"
+    },
+    {
+        "type": "C",
+        "row_index": 49,
+        "column_index": 3,
+        "value": "658.3"
+    },
+    {
+        "type": "C",
+        "row_index": 49,
+        "column_index": 4,
+        "value": "9.9"
+    },
+    {
+        "type": "C",
+        "row_index": 49,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 50,
+        "column_index": 1,
+        "value": "93.1"
+    },
+    {
+        "type": "C",
+        "row_index": 50,
+        "column_index": 2,
+        "value": "50.2"
+    },
+    {
+        "type": "C",
+        "row_index": 50,
+        "column_index": 3,
+        "value": "661.2"
+    },
+    {
+        "type": "C",
+        "row_index": 50,
+        "column_index": 4,
+        "value": "13.8"
+    },
+    {
+        "type": "C",
+        "row_index": 50,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 51,
+        "column_index": 1,
+        "value": "71.4"
+    },
+    {
+        "type": "C",
+        "row_index": 51,
+        "column_index": 2,
+        "value": "117.0"
+    },
+    {
+        "type": "C",
+        "row_index": 51,
+        "column_index": 3,
+        "value": "407.4"
+    },
+    {
+        "type": "C",
+        "row_index": 51,
+        "column_index": 4,
+        "value": "110.1"
+    },
+    {
+        "type": "C",
+        "row_index": 51,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 52,
+        "column_index": 1,
+        "value": "1175"
+    },
+    {
+        "type": "C",
+        "row_index": 52,
+        "column_index": 2,
+        "value": "-13.2"
+    },
+    {
+        "type": "C",
+        "row_index": 52,
+        "column_index": 3,
+        "value": "9602"
+    },
+    {
+        "type": "C",
+        "row_index": 52,
+        "column_index": 4,
+        "value": "2.8"
+    },
+    {
+        "type": "C",
+        "row_index": 52,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 53,
+        "column_index": 1,
+        "value": "3175"
+    },
+    {
+        "type": "C",
+        "row_index": 53,
+        "column_index": 2,
+        "value": "-18.6"
+    },
+    {
+        "type": "C",
+        "row_index": 53,
+        "column_index": 3,
+        "value": "27846"
+    },
+    {
+        "type": "C",
+        "row_index": 53,
+        "column_index": 4,
+        "value": "-6.7"
+    },
+    {
+        "type": "C",
+        "row_index": 53,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 54,
+        "column_index": 1,
+        "value": "12772"
+    },
+    {
+        "type": "C",
+        "row_index": 54,
+        "column_index": 2,
+        "value": "-8.0"
+    },
+    {
+        "type": "C",
+        "row_index": 54,
+        "column_index": 3,
+        "value": "98963"
+    },
+    {
+        "type": "C",
+        "row_index": 54,
+        "column_index": 4,
+        "value": "-4.5"
+    },
+    {
+        "type": "C",
+        "row_index": 54,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 55,
+        "column_index": 1,
+        "value": "9327"
+    },
+    {
+        "type": "C",
+        "row_index": 55,
+        "column_index": 2,
+        "value": "-11.4"
+    },
+    {
+        "type": "C",
+        "row_index": 55,
+        "column_index": 3,
+        "value": "75686"
+    },
+    {
+        "type": "C",
+        "row_index": 55,
+        "column_index": 4,
+        "value": "-4.2"
+    },
+    {
+        "type": "C",
+        "row_index": 55,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 56,
+        "column_index": 1,
+        "value": "247"
+    },
+    {
+        "type": "C",
+        "row_index": 56,
+        "column_index": 2,
+        "value": "-24.7"
+    },
+    {
+        "type": "C",
+        "row_index": 56,
+        "column_index": 3,
+        "value": "2181"
+    },
+    {
+        "type": "C",
+        "row_index": 56,
+        "column_index": 4,
+        "value": "-10.0"
+    },
+    {
+        "type": "C",
+        "row_index": 56,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 57,
+        "column_index": 1,
+        "value": "37044"
+    },
+    {
+        "type": "C",
+        "row_index": 57,
+        "column_index": 2,
+        "value": "8.1"
+    },
+    {
+        "type": "C",
+        "row_index": 57,
+        "column_index": 3,
+        "value": "292934"
+    },
+    {
+        "type": "C",
+        "row_index": 57,
+        "column_index": 4,
+        "value": "11.0"
+    },
+    {
+        "type": "C",
+        "row_index": 57,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 58,
+        "column_index": 1,
+        "value": "3911"
+    },
+    {
+        "type": "C",
+        "row_index": 58,
+        "column_index": 2,
+        "value": "-2.5"
+    },
+    {
+        "type": "C",
+        "row_index": 58,
+        "column_index": 3,
+        "value": "31822"
+    },
+    {
+        "type": "C",
+        "row_index": 58,
+        "column_index": 4,
+        "value": "-1.1"
+    },
+    {
+        "type": "C",
+        "row_index": 58,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 59,
+        "column_index": 1,
+        "value": "1694"
+    },
+    {
+        "type": "C",
+        "row_index": 59,
+        "column_index": 2,
+        "value": "-0.2"
+    },
+    {
+        "type": "C",
+        "row_index": 59,
+        "column_index": 3,
+        "value": "13694"
+    },
+    {
+        "type": "C",
+        "row_index": 59,
+        "column_index": 4,
+        "value": "3.2"
+    },
+    {
+        "type": "C",
+        "row_index": 59,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 60,
+        "column_index": 1,
+        "value": "5366"
+    },
+    {
+        "type": "C",
+        "row_index": 60,
+        "column_index": 2,
+        "value": "-6.5"
+    },
+    {
+        "type": "C",
+        "row_index": 60,
+        "column_index": 3,
+        "value": "43489"
+    },
+    {
+        "type": "C",
+        "row_index": 60,
+        "column_index": 4,
+        "value": "-6.3"
+    },
+    {
+        "type": "C",
+        "row_index": 60,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 61,
+        "column_index": 1,
+        "value": "170"
+    },
+    {
+        "type": "C",
+        "row_index": 61,
+        "column_index": 2,
+        "value": "6.3"
+    },
+    {
+        "type": "C",
+        "row_index": 61,
+        "column_index": 3,
+        "value": "1437"
+    },
+    {
+        "type": "C",
+        "row_index": 61,
+        "column_index": 4,
+        "value": "5.5"
+    },
+    {
+        "type": "C",
+        "row_index": 61,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 62,
+        "column_index": 1,
+        "value": "8248"
+    },
+    {
+        "type": "C",
+        "row_index": 62,
+        "column_index": 2,
+        "value": "9.9"
+    },
+    {
+        "type": "C",
+        "row_index": 62,
+        "column_index": 3,
+        "value": "55975"
+    },
+    {
+        "type": "C",
+        "row_index": 62,
+        "column_index": 4,
+        "value": "2.5"
+    },
+    {
+        "type": "C",
+        "row_index": 62,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 63,
+        "column_index": 1,
+        "value": "5989"
+    },
+    {
+        "type": "C",
+        "row_index": 63,
+        "column_index": 2,
+        "value": "14.8"
+    },
+    {
+        "type": "C",
+        "row_index": 63,
+        "column_index": 3,
+        "value": "38827"
+    },
+    {
+        "type": "C",
+        "row_index": 63,
+        "column_index": 4,
+        "value": "-0.2"
+    },
+    {
+        "type": "C",
+        "row_index": 63,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 64,
+        "column_index": 1,
+        "value": "1226"
+    },
+    {
+        "type": "C",
+        "row_index": 64,
+        "column_index": 2,
+        "value": "-11.0"
+    },
+    {
+        "type": "C",
+        "row_index": 64,
+        "column_index": 3,
+        "value": "8517"
+    },
+    {
+        "type": "C",
+        "row_index": 64,
+        "column_index": 4,
+        "value": "11.4"
+    },
+    {
+        "type": "C",
+        "row_index": 64,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 65,
+        "column_index": 1,
+        "value": "363"
+    },
+    {
+        "type": "C",
+        "row_index": 65,
+        "column_index": 2,
+        "value": "-0.6"
+    },
+    {
+        "type": "C",
+        "row_index": 65,
+        "column_index": 3,
+        "value": "2723"
+    },
+    {
+        "type": "C",
+        "row_index": 65,
+        "column_index": 4,
+        "value": "0.9"
+    },
+    {
+        "type": "C",
+        "row_index": 65,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 66,
+        "column_index": 1,
+        "value": "463"
+    },
+    {
+        "type": "C",
+        "row_index": 66,
+        "column_index": 2,
+        "value": "28.2"
+    },
+    {
+        "type": "C",
+        "row_index": 66,
+        "column_index": 3,
+        "value": "4373"
+    },
+    {
+        "type": "C",
+        "row_index": 66,
+        "column_index": 4,
+        "value": "9.6"
+    },
+    {
+        "type": "C",
+        "row_index": 66,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 67,
+        "column_index": 1,
+        "value": "206"
+    },
+    {
+        "type": "C",
+        "row_index": 67,
+        "column_index": 2,
+        "value": "10.9"
+    },
+    {
+        "type": "C",
+        "row_index": 67,
+        "column_index": 3,
+        "value": "1536"
+    },
+    {
+        "type": "C",
+        "row_index": 67,
+        "column_index": 4,
+        "value": "13.2"
+    },
+    {
+        "type": "C",
+        "row_index": 67,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 68,
+        "column_index": 1,
+        "value": "97.4"
+    },
+    {
+        "type": "C",
+        "row_index": 68,
+        "column_index": 2,
+        "value": "-0.4(百分点)"
+    },
+    {
+        "type": "C",
+        "row_index": 68,
+        "column_index": 3,
+        "value": "96.6"
+    },
+    {
+        "type": "C",
+        "row_index": 68,
+        "column_index": 4,
+        "value": "-1.1(百分点)"
+    },
+    {
+        "type": "C",
+        "row_index": 68,
+        "column_index": 5,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 69,
+        "column_index": 1,
+        "value": "12873"
+    },
+    {
+        "type": "C",
+        "row_index": 69,
+        "column_index": 2,
+        "value": "5.5"
+    },
+    {
+        "type": "C",
+        "row_index": 69,
+        "column_index": 3,
+        "value": "99997"
+    },
+    {
+        "type": "C",
+        "row_index": 69,
+        "column_index": 4,
+        "value": "10.1"
+    },
+    {
+        "type": "C",
+        "row_index": 69,
+        "column_index": 5,
+        "value": ""
+    }
+]

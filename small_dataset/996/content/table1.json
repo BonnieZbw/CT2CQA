@@ -1,0 +1,159 @@
+[
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 0,
+        "end_column": 3,
+        "value": "单位：元，%"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 1,
+        "end_index": 1,
+        "value": "地　区"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 2,
+        "end_index": 2,
+        "value": "合　计"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 3,
+        "end_index": 3,
+        "value": "东　部"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 4,
+        "end_index": 4,
+        "value": "中　部"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 5,
+        "end_index": 5,
+        "value": "西　部"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 6,
+        "end_index": 6,
+        "value": "东　北"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 1,
+        "value": "2017年"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 2,
+        "value": "2018年"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 3,
+        "value": "名义增长率"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 1,
+        "value": "74318"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 2,
+        "value": "82461"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 3,
+        "value": "11.0"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 1,
+        "value": "84809"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 2,
+        "value": "93253"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 3,
+        "value": "10.0"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 1,
+        "value": "61193"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 2,
+        "value": "68969"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 3,
+        "value": "12.7"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 1,
+        "value": "68323"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 2,
+        "value": "75755"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 3,
+        "value": "10.9"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 1,
+        "value": "59514"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 2,
+        "value": "65411"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 3,
+        "value": "9.9"
+    }
+]

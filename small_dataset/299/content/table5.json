@@ -1,0 +1,844 @@
+[
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 0,
+        "end_column": 0,
+        "value": "地　区"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 1,
+        "end_column": 1,
+        "value": "金额（亿元）"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 2,
+        "end_column": 3,
+        "value": "同比增长（%）"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 2,
+        "end_column": 2,
+        "value": "同口径"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 3,
+        "end_column": 3,
+        "value": "自然口径"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 1,
+        "end_index": 1,
+        "value": "合　计"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 2,
+        "end_index": 2,
+        "value": "北　京"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 3,
+        "end_index": 3,
+        "value": "天　津"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 4,
+        "end_index": 4,
+        "value": "河　北"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 5,
+        "end_index": 5,
+        "value": "山　西"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 6,
+        "end_index": 6,
+        "value": "内蒙古"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 7,
+        "end_index": 7,
+        "value": "辽　宁"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 8,
+        "end_index": 8,
+        "value": "吉　林"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 9,
+        "end_index": 9,
+        "value": "黑龙江"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 10,
+        "end_index": 10,
+        "value": "上　海"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 11,
+        "end_index": 11,
+        "value": "江　苏"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 12,
+        "end_index": 12,
+        "value": "浙　江"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 13,
+        "end_index": 13,
+        "value": "安　徽"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 14,
+        "end_index": 14,
+        "value": "福　建"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 15,
+        "end_index": 15,
+        "value": "江　西"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 16,
+        "end_index": 16,
+        "value": "山　东"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 17,
+        "end_index": 17,
+        "value": "河　南"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 18,
+        "end_index": 18,
+        "value": "湖　北"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 19,
+        "end_index": 19,
+        "value": "湖　南"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 20,
+        "end_index": 20,
+        "value": "广　东"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 21,
+        "end_index": 21,
+        "value": "广　西"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 22,
+        "end_index": 22,
+        "value": "海　南"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 23,
+        "end_index": 23,
+        "value": "重　庆"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 24,
+        "end_index": 24,
+        "value": "四　川"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 25,
+        "end_index": 25,
+        "value": "贵　州"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 26,
+        "end_index": 26,
+        "value": "云　南"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 27,
+        "end_index": 27,
+        "value": "西　藏"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 28,
+        "end_index": 28,
+        "value": "陕　西"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 29,
+        "end_index": 29,
+        "value": "甘　肃"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 30,
+        "end_index": 30,
+        "value": "青　海"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 31,
+        "end_index": 31,
+        "value": "宁　夏"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 32,
+        "end_index": 32,
+        "value": "新　疆"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 33,
+        "end_index": 33,
+        "value": "注：\n1.本表同口径增幅是将今年和去年同期新老政策增值税留抵退税返加回收入计算的同口径增长率，以更贴近财政运行实际情况。\n2.本表中数据因四舍五入，存在合计与分项加总不等的情况。"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 1,
+        "value": "57558"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 2,
+        "value": "4.7"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 3,
+        "value": "-7.9"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 1,
+        "value": "2991"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 2,
+        "value": "0.5"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 3,
+        "value": "-8.1"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 1,
+        "value": "869"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 2,
+        "value": "-17.7"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 3,
+        "value": "-29.3"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 1,
+        "value": "2381"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 2,
+        "value": "6.5"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 3,
+        "value": "-6.7"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 1,
+        "value": "1823"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 2,
+        "value": "44.0"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 3,
+        "value": "28.6"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 1,
+        "value": "1576"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 2,
+        "value": "49.4"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 3,
+        "value": "36.6"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 1,
+        "value": "1335"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 2,
+        "value": "1.7"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 3,
+        "value": "-9.2"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 1,
+        "value": "379"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 2,
+        "value": "-28.6"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 3,
+        "value": "-42.8"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 1,
+        "value": "655"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 2,
+        "value": "9.9"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 3,
+        "value": "-1.4"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 1,
+        "value": "3795"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 2,
+        "value": "-12.9"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 3,
+        "value": "-19.8"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 1,
+        "value": "4639"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 2,
+        "value": "-5.8"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 3,
+        "value": "-17.9"
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 1,
+        "value": "4984"
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 2,
+        "value": "4.2"
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 3,
+        "value": "-6.2"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 1,
+        "value": "1934"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 2,
+        "value": "11.2"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 3,
+        "value": "-1.2"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 1,
+        "value": "1960"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 2,
+        "value": "6.7"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 3,
+        "value": "-4.1"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 1,
+        "value": "1752"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 2,
+        "value": "11.3"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 3,
+        "value": "2.6"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 1,
+        "value": "3950"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 2,
+        "value": "6.3"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 3,
+        "value": "-8.2"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 1,
+        "value": "2362"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 2,
+        "value": "12.5"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 3,
+        "value": "-3.5"
+    },
+    {
+        "type": "C",
+        "row_index": 18,
+        "column_index": 1,
+        "value": "1787"
+    },
+    {
+        "type": "C",
+        "row_index": 18,
+        "column_index": 2,
+        "value": "3.5"
+    },
+    {
+        "type": "C",
+        "row_index": 18,
+        "column_index": 3,
+        "value": "-10.6"
+    },
+    {
+        "type": "C",
+        "row_index": 19,
+        "column_index": 1,
+        "value": "1590"
+    },
+    {
+        "type": "C",
+        "row_index": 19,
+        "column_index": 2,
+        "value": "7.3"
+    },
+    {
+        "type": "C",
+        "row_index": 19,
+        "column_index": 3,
+        "value": "-7.2"
+    },
+    {
+        "type": "C",
+        "row_index": 20,
+        "column_index": 1,
+        "value": "6730"
+    },
+    {
+        "type": "C",
+        "row_index": 20,
+        "column_index": 2,
+        "value": "-0.5"
+    },
+    {
+        "type": "C",
+        "row_index": 20,
+        "column_index": 3,
+        "value": "-11.4"
+    },
+    {
+        "type": "C",
+        "row_index": 21,
+        "column_index": 1,
+        "value": "858"
+    },
+    {
+        "type": "C",
+        "row_index": 21,
+        "column_index": 2,
+        "value": "-0.6"
+    },
+    {
+        "type": "C",
+        "row_index": 21,
+        "column_index": 3,
+        "value": "-16.6"
+    },
+    {
+        "type": "C",
+        "row_index": 22,
+        "column_index": 1,
+        "value": "439"
+    },
+    {
+        "type": "C",
+        "row_index": 22,
+        "column_index": 2,
+        "value": "3.8"
+    },
+    {
+        "type": "C",
+        "row_index": 22,
+        "column_index": 3,
+        "value": "-8.5"
+    },
+    {
+        "type": "C",
+        "row_index": 23,
+        "column_index": 1,
+        "value": "1019"
+    },
+    {
+        "type": "C",
+        "row_index": 23,
+        "column_index": 2,
+        "value": "-6.1"
+    },
+    {
+        "type": "C",
+        "row_index": 23,
+        "column_index": 3,
+        "value": "-16.2"
+    },
+    {
+        "type": "C",
+        "row_index": 24,
+        "column_index": 1,
+        "value": "2479"
+    },
+    {
+        "type": "C",
+        "row_index": 24,
+        "column_index": 2,
+        "value": "9.6"
+    },
+    {
+        "type": "C",
+        "row_index": 24,
+        "column_index": 3,
+        "value": "-3.8"
+    },
+    {
+        "type": "C",
+        "row_index": 25,
+        "column_index": 1,
+        "value": "889"
+    },
+    {
+        "type": "C",
+        "row_index": 25,
+        "column_index": 2,
+        "value": "6.4"
+    },
+    {
+        "type": "C",
+        "row_index": 25,
+        "column_index": 3,
+        "value": "-12.9"
+    },
+    {
+        "type": "C",
+        "row_index": 26,
+        "column_index": 1,
+        "value": "868"
+    },
+    {
+        "type": "C",
+        "row_index": 26,
+        "column_index": 2,
+        "value": "7.8"
+    },
+    {
+        "type": "C",
+        "row_index": 26,
+        "column_index": 3,
+        "value": "-22.5"
+    },
+    {
+        "type": "C",
+        "row_index": 27,
+        "column_index": 1,
+        "value": "76"
+    },
+    {
+        "type": "C",
+        "row_index": 27,
+        "column_index": 2,
+        "value": "7.2"
+    },
+    {
+        "type": "C",
+        "row_index": 27,
+        "column_index": 3,
+        "value": "-24.2"
+    },
+    {
+        "type": "C",
+        "row_index": 28,
+        "column_index": 1,
+        "value": "1719"
+    },
+    {
+        "type": "C",
+        "row_index": 28,
+        "column_index": 2,
+        "value": "34.7"
+    },
+    {
+        "type": "C",
+        "row_index": 28,
+        "column_index": 3,
+        "value": "19.4"
+    },
+    {
+        "type": "C",
+        "row_index": 29,
+        "column_index": 1,
+        "value": "446"
+    },
+    {
+        "type": "C",
+        "row_index": 29,
+        "column_index": 2,
+        "value": "15.9"
+    },
+    {
+        "type": "C",
+        "row_index": 29,
+        "column_index": 3,
+        "value": "-5.7"
+    },
+    {
+        "type": "C",
+        "row_index": 30,
+        "column_index": 1,
+        "value": "133"
+    },
+    {
+        "type": "C",
+        "row_index": 30,
+        "column_index": 2,
+        "value": "16.5"
+    },
+    {
+        "type": "C",
+        "row_index": 30,
+        "column_index": 3,
+        "value": "-20.9"
+    },
+    {
+        "type": "C",
+        "row_index": 31,
+        "column_index": 1,
+        "value": "232"
+    },
+    {
+        "type": "C",
+        "row_index": 31,
+        "column_index": 2,
+        "value": "23.6"
+    },
+    {
+        "type": "C",
+        "row_index": 31,
+        "column_index": 3,
+        "value": "-0.8"
+    },
+    {
+        "type": "C",
+        "row_index": 32,
+        "column_index": 1,
+        "value": "911"
+    },
+    {
+        "type": "C",
+        "row_index": 32,
+        "column_index": 2,
+        "value": "40.9"
+    },
+    {
+        "type": "C",
+        "row_index": 32,
+        "column_index": 3,
+        "value": "17.8"
+    }
+]
