@@ -1,0 +1,585 @@
+[
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 0,
+        "end_column": 0,
+        "value": ""
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 1,
+        "end_column": 2,
+        "value": "绝对额（亿元）"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 0,
+        "start_column": 3,
+        "end_column": 4,
+        "value": "比上年同期增长（%）"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 1,
+        "end_column": 1,
+        "value": "二季度"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 2,
+        "end_column": 2,
+        "value": "上半年"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 3,
+        "end_column": 3,
+        "value": "二季度"
+    },
+    {
+        "type": "T",
+        "ex_hierarchical_index": 1,
+        "start_column": 4,
+        "end_column": 4,
+        "value": "上半年"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 1,
+        "end_index": 1,
+        "value": "GDP"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 2,
+        "end_index": 2,
+        "value": "第一产业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 3,
+        "end_index": 3,
+        "value": "第二产业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 4,
+        "end_index": 4,
+        "value": "第三产业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 1,
+        "row_index": 5,
+        "end_index": 5,
+        "value": ""
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 6,
+        "end_index": 6,
+        "value": "农林牧渔业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 7,
+        "end_index": 7,
+        "value": "工业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 8,
+        "end_index": 8,
+        "value": "#制造业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 9,
+        "end_index": 9,
+        "value": "建筑业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 10,
+        "end_index": 10,
+        "value": "批发和零售业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 11,
+        "end_index": 11,
+        "value": "交通运输、仓储和邮政业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 12,
+        "end_index": 12,
+        "value": "住宿和餐饮业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 13,
+        "end_index": 13,
+        "value": "金融业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 14,
+        "end_index": 14,
+        "value": "房地产业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 15,
+        "end_index": 15,
+        "value": "信息传输、软件和信息技术服务业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 16,
+        "end_index": 16,
+        "value": "租赁和商务服务业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 17,
+        "end_index": 17,
+        "value": "其他行业"
+    },
+    {
+        "type": "L",
+        "im0hierarchical_index": 0,
+        "row_index": 18,
+        "end_index": 18,
+        "value": "注：\n1.绝对额按现价计算，增长速度按不变价计算；\n2.三次产业分类依据国家统计局2018年修订的《三次产业划分规定》；\n3.行业分类采用《国民经济行业分类（GB/T 4754－2017）》；\n4.本表GDP总量数据中，有的不等于各产业（行业）之和，是由于数值修约误差所致，未作机械调整。"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 1,
+        "value": "292464"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 2,
+        "value": "562642"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 3,
+        "value": "0.4"
+    },
+    {
+        "type": "C",
+        "row_index": 1,
+        "column_index": 4,
+        "value": "2.5"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 1,
+        "value": "18183"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 2,
+        "value": "29137"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 3,
+        "value": "4.4"
+    },
+    {
+        "type": "C",
+        "row_index": 2,
+        "column_index": 4,
+        "value": "5.0"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 1,
+        "value": "122450"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 2,
+        "value": "228636"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 3,
+        "value": "0.9"
+    },
+    {
+        "type": "C",
+        "row_index": 3,
+        "column_index": 4,
+        "value": "3.2"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 1,
+        "value": "151831"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 2,
+        "value": "304868"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 3,
+        "value": "-0.4"
+    },
+    {
+        "type": "C",
+        "row_index": 4,
+        "column_index": 4,
+        "value": "1.8"
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 1,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 2,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 3,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 5,
+        "column_index": 4,
+        "value": ""
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 1,
+        "value": "19073"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 2,
+        "value": "30643"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 3,
+        "value": "4.5"
+    },
+    {
+        "type": "C",
+        "row_index": 6,
+        "column_index": 4,
+        "value": "5.1"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 1,
+        "value": "100333"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 2,
+        "value": "193885"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 3,
+        "value": "0.4"
+    },
+    {
+        "type": "C",
+        "row_index": 7,
+        "column_index": 4,
+        "value": "3.3"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 1,
+        "value": "84216"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 2,
+        "value": "162315"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 3,
+        "value": "-0.3"
+    },
+    {
+        "type": "C",
+        "row_index": 8,
+        "column_index": 4,
+        "value": "2.8"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 1,
+        "value": "22546"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 2,
+        "value": "35575"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 3,
+        "value": "3.6"
+    },
+    {
+        "type": "C",
+        "row_index": 9,
+        "column_index": 4,
+        "value": "2.8"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 1,
+        "value": "27447"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 2,
+        "value": "53366"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 3,
+        "value": "-1.8"
+    },
+    {
+        "type": "C",
+        "row_index": 10,
+        "column_index": 4,
+        "value": "0.9"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 1,
+        "value": "12113"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 2,
+        "value": "22543"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 3,
+        "value": "-3.5"
+    },
+    {
+        "type": "C",
+        "row_index": 11,
+        "column_index": 4,
+        "value": "-0.8"
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 1,
+        "value": "3806"
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 2,
+        "value": "7667"
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 3,
+        "value": "-5.3"
+    },
+    {
+        "type": "C",
+        "row_index": 12,
+        "column_index": 4,
+        "value": "-2.8"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 1,
+        "value": "24249"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 2,
+        "value": "48973"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 3,
+        "value": "5.9"
+    },
+    {
+        "type": "C",
+        "row_index": 13,
+        "column_index": 4,
+        "value": "5.5"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 1,
+        "value": "18605"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 2,
+        "value": "37535"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 3,
+        "value": "-7.0"
+    },
+    {
+        "type": "C",
+        "row_index": 14,
+        "column_index": 4,
+        "value": "-4.6"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 1,
+        "value": "12341"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 2,
+        "value": "24468"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 3,
+        "value": "7.6"
+    },
+    {
+        "type": "C",
+        "row_index": 15,
+        "column_index": 4,
+        "value": "9.2"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 1,
+        "value": "7724"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 2,
+        "value": "16281"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 3,
+        "value": "-3.3"
+    },
+    {
+        "type": "C",
+        "row_index": 16,
+        "column_index": 4,
+        "value": "0.9"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 1,
+        "value": "44227"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 2,
+        "value": "91706"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 3,
+        "value": "-0.2"
+    },
+    {
+        "type": "C",
+        "row_index": 17,
+        "column_index": 4,
+        "value": "2.4"
+    }
+]
