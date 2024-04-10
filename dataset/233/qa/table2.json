@@ -2,56 +2,89 @@
    {
       "question": "普通硅酸盐水泥的抗压强度是多少？",
       "answer": "抗压强度42.5MPa",
-      "id": "table378"
+      "id": "table378",
+      "tag": [
+         "42.5"
+      ]
    },
    {
       "question": "天然橡胶中的杂质含量最高是多少？",
       "answer": "杂质含量≤0.05%",
-      "id": "table379"
+      "id": "table379",
+      "tag": [
+         "≤0.05"
+      ]
    },
    {
       "question": "液化天然气的甲烷含量至少应达到多少？",
       "answer": "甲烷含量≥75%",
-      "id": "table380"
+      "id": "table380",
+      "tag": [
+         "≥75"
+      ]
    },
    {
       "question": "瓦楞纸的克重标准是多少？",
       "answer": "120±5g/m2",
-      "id": "table381"
+      "id": "table381",
+      "tag": [
+         "120"
+      ]
    },
    {
       "question": "烧碱（液碱）的NaOH质量分数最低是多少？",
       "answer": "NaOH质量分数≥32%的离子膜碱",
-      "id": "table382"
+      "id": "table382",
+      "tag": [
+         "≥32%"
+      ]
    },
    {
       "question": "化工产品类别中，苯乙烯的纯度最低应达到多少？",
       "answer": "纯度≥99.5%",
-      "id": "table383"
+      "id": "table383",
+      "tag": [
+         "99.5"
+      ]
    },
    {
       "question": "无缝钢管使用的是什么钢材？",
       "answer": "20#钢材",
-      "id": "table384"
+      "id": "table384",
+      "tag": [
+         "20#钢材"
+      ]
    },
    {
       "question": "尿素中的总氮最低是多少？",
       "answer": "总氮≥46%",
-      "id": "table385"
+      "id": "table385",
+      "tag": [
+         "46"
+      ]
    },
    {
       "question": "甲醇中的水质量含量最大是多少？",
       "answer": "水质量含量≤0.10%",
-      "id": "table386"
+      "id": "table386",
+      "tag": [
+         "≤0.10%"
+      ]
    },
    {
       "question": "豆粕的粗蛋白含量至少应达到多少？",
       "answer": "粗蛋白≥43%",
-      "id": "table387"
+      "id": "table387",
+      "tag": [
+         "43"
+      ]
    },
    {
       "question": "复合肥中的氮磷钾含量总和是多少？",
       "answer": "氮磷钾含量45%",
-      "id": "table388"
+      "id": "table388",
+      "tag": [
+         "45"
+      ]
    }
 ]
